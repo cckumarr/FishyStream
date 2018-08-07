@@ -7,6 +7,7 @@ Things to do:
 
 3) [ ] flink reads from the queue and filters out the unwanted
 
-4) counts/aggregates the particular fish
+4) [ ] counts/aggregates the particular fish
 
-5) gets the stats in the last 5 mins(maybe use windowing for this)  
+5) [ ] gets the stats in the last 5 mins(maybe use windowing for this)  
+6) [ ] finishing touches (design patterns, clean up , etc etc)
