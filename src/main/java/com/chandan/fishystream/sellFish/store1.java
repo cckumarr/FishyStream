@@ -1,5 +1,5 @@
 // author : chandan
-package com.chandan.sellFish;
+package com.chandan.fishystream.sellFish;
 
 public class store1 {
 }

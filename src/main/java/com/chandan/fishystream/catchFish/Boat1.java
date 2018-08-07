@@ -1,5 +1,5 @@
 // author : chandan
-package com.chandan.catchFish;
+package com.chandan.fishystream.catchFish;
 
 import com.chandan.Fish;
 import com.rabbitmq.client.Channel;

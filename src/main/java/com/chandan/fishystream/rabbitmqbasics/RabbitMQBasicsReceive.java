@@ -1,5 +1,5 @@
 //// author : chandan
-package com.chandan.rabbitmqbasics;
+package com.chandan.fishystream.rabbitmqbasics;
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.ConnectionFactory;

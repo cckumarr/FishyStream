@@ -1,7 +1,6 @@
 // author : chandan
-package com.chandan.rabbitmqbasics;
+package com.chandan.fishystream.rabbitmqbasics;
 
-import com.chandan.Fish;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.Channel;
