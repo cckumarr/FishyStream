@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 public class RabbitMQBasicsSend {
-  private final static String QUEUE_NAME = "hello";
+  private final static String QUEUE_NAME = "Fishy";
 
   public static void main(String[] argv) throws IOException, TimeoutException {
 

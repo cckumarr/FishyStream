@@ -1,10 +1,12 @@
 // author : chandan
 package com.chandan;
 
+import org.apache.flink.api.common.serialization.DeserializationSchema;
+
 import java.io.Serializable;
 import java.util.Random;
 
-public class Fish implements Serializable {
+public class Fish implements Serializable, DeserializationSchema<Fish> {
   private int salmon;
   private int tuna;
   private int cod;
